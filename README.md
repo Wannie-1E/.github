@@ -1,6 +1,6 @@
 # Personal .github Directory
 
-This directory contains community health files, templates, and workflows for your personal projects and repositories. These files help ensure a welcoming, consistent, and collaborative environment across all your personal repos.
+This directory contains community health files, templates, and workflows for personal projects and repositories.
 
 ## 📄 What You'll Find Here
 
