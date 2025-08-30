@@ -17,7 +17,7 @@ This directory contains community health files, templates, and workflows for per
 
 ## 👤 About Me
 
-I'm a passionate developer building open source, cross-platform, and self-hosted solutions. Learn more on my [GitHub profile](../Wannie-1E/README.md).
+I'm a passionate developer building open source, cross-platform, and self-hosted solutions. Learn more on my [GitHub profile](https://github.com/Wannie-1E/).
 
 ## 🤝 Get Involved
 
