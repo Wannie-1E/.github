@@ -13,7 +13,7 @@ This directory contains community health files, templates, and workflows for per
 - **SECURITY.md** — Security policy and contact
 - **SUPPORT.md** — How to get help or support
 - **workflows/** — GitHub Actions for CI/CD and automation
-- **Wannie-1E/README.md** — [Your GitHub Profile Page](../Wannie-1E/README.md)
+- **Wannie-1E/README.md** — [My GitHub Profile Page](../Wannie-1E/README.md](https://github.com/Wannie-1E/Wannie-1E/blob/main/README.md))
 
 ## 👤 About Me
 
